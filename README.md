@@ -1,5 +1,4 @@
-# -beatingHeart
-点击预览
+# beatingHeart
 ## 初始化文件夹
 
 ```
